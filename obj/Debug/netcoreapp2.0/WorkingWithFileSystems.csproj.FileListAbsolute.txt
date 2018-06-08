@@ -1,0 +1,11 @@
+C:\Users\tahir.raza\Dropbox\AccessPay\Code\Chapter09\WorkingWithFileSystems\bin\Debug\netcoreapp2.0\WorkingWithFileSystems.deps.json
+C:\Users\tahir.raza\Dropbox\AccessPay\Code\Chapter09\WorkingWithFileSystems\bin\Debug\netcoreapp2.0\WorkingWithFileSystems.runtimeconfig.json
+C:\Users\tahir.raza\Dropbox\AccessPay\Code\Chapter09\WorkingWithFileSystems\bin\Debug\netcoreapp2.0\WorkingWithFileSystems.runtimeconfig.dev.json
+C:\Users\tahir.raza\Dropbox\AccessPay\Code\Chapter09\WorkingWithFileSystems\bin\Debug\netcoreapp2.0\WorkingWithFileSystems.dll
+C:\Users\tahir.raza\Dropbox\AccessPay\Code\Chapter09\WorkingWithFileSystems\bin\Debug\netcoreapp2.0\WorkingWithFileSystems.pdb
+C:\Users\tahir.raza\Dropbox\AccessPay\Code\Chapter09\WorkingWithFileSystems\obj\Debug\netcoreapp2.0\WorkingWithFileSystems.csprojResolveAssemblyReference.cache
+C:\Users\tahir.raza\Dropbox\AccessPay\Code\Chapter09\WorkingWithFileSystems\obj\Debug\netcoreapp2.0\WorkingWithFileSystems.csproj.CoreCompileInputs.cache
+C:\Users\tahir.raza\Dropbox\AccessPay\Code\Chapter09\WorkingWithFileSystems\obj\Debug\netcoreapp2.0\WorkingWithFileSystems.AssemblyInfoInputs.cache
+C:\Users\tahir.raza\Dropbox\AccessPay\Code\Chapter09\WorkingWithFileSystems\obj\Debug\netcoreapp2.0\WorkingWithFileSystems.AssemblyInfo.cs
+C:\Users\tahir.raza\Dropbox\AccessPay\Code\Chapter09\WorkingWithFileSystems\obj\Debug\netcoreapp2.0\WorkingWithFileSystems.dll
+C:\Users\tahir.raza\Dropbox\AccessPay\Code\Chapter09\WorkingWithFileSystems\obj\Debug\netcoreapp2.0\WorkingWithFileSystems.pdb

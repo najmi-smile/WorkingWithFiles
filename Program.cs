@@ -1,8 +1,4 @@
 ﻿using static System.Console;
-using System.IO;
-using static System.IO.Directory;
-using static System.IO.Path;
-using static System.Environment;
 
 namespace WorkingWithFileSystems
 {
@@ -12,9 +8,11 @@ namespace WorkingWithFileSystems
         {
             OutputFileSystemInfo system = new OutputFileSystemInfo();
             WorkingWithDrives driveInfo = new WorkingWithDrives();
+            WorkingWithDirectories dir = new WorkingWithDirectories();
 
-            //system.info();            
+            system.info();            
             driveInfo.Drives();
+            //dir.Create();
         }     
     }
 }
